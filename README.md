@@ -23,7 +23,6 @@ Worked with the World Database to practise SQL querying, filtering, aggregation,
 - [Create World DB on Supabase](./Create%20World%20DB%20on%20Supabase--)
 
 ---
-
 ### 🏥 NHS Data Analysis
 Applied SQL queries to explore NHS workforce data, identify trends, and generate analytical insights from healthcare datasets.
 
@@ -31,7 +30,6 @@ Applied SQL queries to explore NHS workforce data, identify trends, and generate
 - [NHS Data Technician Workbook](./NHS%20Data_Technician_Workboo...)
  
 ---
- 
 ### 🗃️ Northwind Database
 Created and explored the Northwind sample database to practise database design, table creation, relationships, and SQL queries.
 
@@ -39,7 +37,6 @@ Created and explored the Northwind sample database to practise database design, 
 - [Create Northwind Tables on Supabase](./Create%20Northwind%20Tables%20on%20Su...)
  
 ---
- 
 ### 📝 SQL Query Practice
 Developed and tested SQL queries using filtering, sorting, joins, aggregation, and data manipulation techniques.
 
@@ -47,7 +44,6 @@ Developed and tested SQL queries using filtering, sorting, joins, aggregation, a
 - [Day 2 Supabase SQL Queries](./Day%202%20Supabase%20SQL%20Queries.txt)
 
 ---
-
 ## 🛠️ Tools & Technologies
 - SQL
 - Supabase
